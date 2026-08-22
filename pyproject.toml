@@ -4,4 +4,8 @@ version = "0.1.0"
 description = "Predictive maintenance project using the NASA C-MAPSS dataset."
 requires-python = ">=3.11,<3.12"
 
-dependencies = []
+dependencies = [
+    "pandas",
+    "matplotlib",
+    "jupyter",
+]
